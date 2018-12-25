@@ -25,7 +25,7 @@ namespace Vega
             // In production, the Angular files will be served from this directory
             services.AddSpaStaticFiles(configuration =>
             {
-                configuration.RootPath = "ClientApp/dist1";
+                configuration.RootPath = "ClientApp/dist2";
             });
         }
 
